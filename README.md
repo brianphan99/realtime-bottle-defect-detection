@@ -1,4 +1,4 @@
-# Bottle Inspection System
+# Real-time Bottle Defect Detection
 
 This is a Python script that checks bottles for defects on a production line using webcams. It uses an AI model (YOLOv4) to check the bottle shape, and regular image processing (OpenCV) to check the cap and liquid level.
 
